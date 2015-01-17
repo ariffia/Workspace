@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FyyyGPS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="API_KEY">AIzaSyA9gihd4y-4oZZtH3GFp1I4sH9ZmzUWsE4</string>
+
+</resources>
